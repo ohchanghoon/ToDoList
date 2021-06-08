@@ -19,6 +19,7 @@
 
 
 <hr>
+
 ### index.html ( 준비물 삭제 )
 ![image](https://user-images.githubusercontent.com/58061847/121152923-97052d00-c880-11eb-9efd-f1e09da20c90.png)
 
@@ -29,5 +30,6 @@
 ![image](https://user-images.githubusercontent.com/58061847/121153061-b603bf00-c880-11eb-9806-2f0dc23d3eee.png)
 
 <hr>
+
 ### checklist.js
 ![image](https://user-images.githubusercontent.com/58061847/121153152-c7e56200-c880-11eb-95b5-37c23e5e9cd9.png)
